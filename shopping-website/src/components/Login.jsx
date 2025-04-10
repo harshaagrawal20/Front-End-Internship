@@ -64,7 +64,7 @@ const Login = () => {
               transition={{ delay: 0.2, duration: 0.6 }}
               className="cosmic-title"
             >
-              Welcome to the <span className="text-gradient">Cosmos</span>
+              Welcome to the <span className="text-gradient">Zyntra</span>
             </motion.h1>
             <motion.p
               initial={{ opacity: 0 }}
